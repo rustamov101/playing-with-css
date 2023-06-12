@@ -1,0 +1,21 @@
+h3 {
+
+
+}
+
+
+#food
+{
+/* id должен быть только одни.(ошибка болади бомасам)  */
+color: azure;
+background-color: blueviolet;
+text-align: end;
+}
+
+.food2{
+/*  class */
+text-align: center;
+background-color: chocolate;
+
+}
+/* тег в теге  (возможно)*/
